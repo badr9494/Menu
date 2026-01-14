@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <manifest>
   <asset key="2000910787_180287087_set" ID="4c0d2075-2f08-4c08-89aa-f47ee8a56a80" modified="2025-11-19 10:46:49" uploader="1" publishDate="2025-11-19 10:46:49" published="true" type="Set">
-    <asset key="2000910787_180287087_01" format="image/jpeg" height="2000" width="2000" ID="498730f1-077b-47a4-a4c1-278bb8d4d4bc" modified="2025-11-19 10:46:49" uploader="1" publishDate="498730f1-077b-47a4-a4c1-278bb8d4d4bc" published="true" type="Image"/>
     <asset key="2000910787_180287087_02" format="image/jpeg" height="2000" width="2000" ID="fe0c8fd4-d096-4a76-8157-647738182577" modified="2025-11-19 10:46:49" uploader="1" publishDate="fe0c8fd4-d096-4a76-8157-647738182577" published="true" type="Image"/>
     <asset key="2000910787_180287087_03" format="image/jpeg" height="2000" width="2000" ID="2084d86e-716a-4e94-922f-f90467a9948b" modified="2025-11-19 10:46:49" uploader="1" publishDate="2084d86e-716a-4e94-922f-f90467a9948b" published="true" type="Image"/>
     <asset key="2000910787_180287087_99" format="image/jpeg" height="2000" width="2000" ID="82e54d9b-4c43-4565-8829-b3d7c1835d57" modified="2025-11-19 10:46:49" uploader="1" publishDate="82e54d9b-4c43-4565-8829-b3d7c1835d57" published="true" type="Image"/>
     <asset key="2000910787_180287087_PSWATCH" format="image/jpeg" height="115" width="115" ID="60dc7572-6685-4dcd-a03b-e067c7afe44b" modified="2025-11-19 10:46:49" uploader="1" publishDate="60dc7572-6685-4dcd-a03b-e067c7afe44b" published="true" type="Image"/>
-	<asset key="2000910787_01" format="image/jpeg" height="115" width="115" ID="60dc7572-6685-4dcd-a03b-e067c7afe44b" modified="2025-11-19 10:46:49" uploader="1" publishDate="60dc7572-6685-4dcd-a03b-e067c7afe44b" published="true" type="Image"/>
   </asset>
 </manifest>
